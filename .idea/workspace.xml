@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c973eca-0bd7-4d80-b0e5-eed124d4d850" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meeton/images/icons/preloader.GIF" afterPath="$PROJECT_DIR$/meeton/images/icons/preloader.GIF" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meeton/css/style.css" afterPath="$PROJECT_DIR$/meeton/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meeton/index-2.html" afterPath="$PROJECT_DIR$/meeton/index-2.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,10 +17,13 @@
       <file leaf-file-name="index-2.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/meeton/index-2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="766">
-              <caret line="327" column="10" lean-forward="false" selection-start-line="327" selection-start-column="10" selection-end-line="327" selection-end-column="10" />
+            <state relative-caret-position="838">
+              <caret line="243" column="117" lean-forward="false" selection-start-line="243" selection-start-column="117" selection-end-line="243" selection-end-column="117" />
               <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1490476437000" expanded="false" signature="13447:13514" ph="..." />
               </folding>
             </state>
           </provider>
@@ -33,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/meeton/single-speaker.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="400">
-              <caret line="122" column="40" lean-forward="true" selection-start-line="122" selection-start-column="40" selection-end-line="122" selection-end-column="40" />
+              <caret line="122" column="40" lean-forward="false" selection-start-line="122" selection-start-column="40" selection-end-line="122" selection-end-column="40" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -104,7 +104,7 @@
       <file leaf-file-name="revolution-slider.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/meeton/css/revolution-slider.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
+            <state relative-caret-position="-2500">
               <caret line="0" column="38017" lean-forward="false" selection-start-line="0" selection-start-column="38012" selection-end-line="0" selection-end-column="38017" />
               <folding />
             </state>
@@ -114,8 +114,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/meeton/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="2573" column="52" lean-forward="false" selection-start-line="2573" selection-start-column="47" selection-end-line="2573" selection-end-column="52" />
+            <state relative-caret-position="319">
+              <caret line="315" column="18" lean-forward="false" selection-start-line="315" selection-start-column="14" selection-end-line="315" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -132,6 +132,7 @@
       <find>big</find>
       <find>title</find>
       <find>big-title</find>
+      <find>logo</find>
     </findStrings>
     <replaceStrings>
       <replace>#0EBFE9</replace>
@@ -660,12 +661,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1490461668369</updated>
-      <workItem from="1490461671558" duration="5135000" />
+      <workItem from="1490461671558" duration="8265000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5135000" />
+    <option name="totallyTimeSpent" value="8265000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="0" width="1920" height="1080" extended-state="0" />
@@ -783,16 +784,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/meeton/css/revolution-slider.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
+        <state relative-caret-position="-2500">
           <caret line="0" column="38017" lean-forward="false" selection-start-line="0" selection-start-column="38012" selection-end-line="0" selection-end-column="38017" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meeton/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="2573" column="52" lean-forward="false" selection-start-line="2573" selection-start-column="47" selection-end-line="2573" selection-end-column="52" />
           <folding />
         </state>
       </provider>
@@ -816,7 +809,7 @@
     <entry file="file://$PROJECT_DIR$/meeton/single-speaker.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
-          <caret line="122" column="40" lean-forward="true" selection-start-line="122" selection-start-column="40" selection-end-line="122" selection-end-column="40" />
+          <caret line="122" column="40" lean-forward="false" selection-start-line="122" selection-start-column="40" selection-end-line="122" selection-end-column="40" />
           <folding>
             <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -831,12 +824,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/meeton/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="315" column="18" lean-forward="false" selection-start-line="315" selection-start-column="14" selection-end-line="315" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/meeton/index-2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="766">
-          <caret line="327" column="10" lean-forward="false" selection-start-line="327" selection-start-column="10" selection-end-line="327" selection-end-column="10" />
+        <state relative-caret-position="838">
+          <caret line="243" column="117" lean-forward="false" selection-start-line="243" selection-start-column="117" selection-end-line="243" selection-end-column="117" />
           <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1490476437000" expanded="false" signature="13447:13514" ph="..." />
           </folding>
         </state>
       </provider>

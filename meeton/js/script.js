@@ -149,7 +149,7 @@
 
 	//Countdown Timer
 	if($('#countdown-timer').length){
-		$('#countdown-timer').countdown('2017/11/29', function(event) {
+		$('#countdown-timer').countdown('2017/11/09', function(event) {
 			var $this = $(this).html(event.strftime('' + '<div class="counter-column"><span class="count">%D</span><span class="colon">:</span><br>DAYS</div> ' + '<div class="counter-column"><span class="count">%H</span><span class="colon">:</span><br>HOURS</div>  ' + '<div class="counter-column"><span class="count">%M</span><span class="colon">:</span><br>MINUTES</div>  ' + '<div class="counter-column"><span class="count">%S</span><br>SECOND</div>'));
 		});
 	}

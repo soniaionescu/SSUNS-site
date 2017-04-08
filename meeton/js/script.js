@@ -271,19 +271,30 @@
 			zoom: 12,
 			scrollwheel:false,
 			//Set Latitude and Longitude Here
-			lat: -37.817085,
-			lng: 144.955631
+			lat: +45.5017,
+			lng: -73.5673,
 		  });
 
 		  //Add map Marker
 		  map.addMarker({
-			lat: -37.817085,
-			lng: 144.955631,
+			lat: +45.5048,
+			lng: -73.5772,
 			infoWindow: {
-			  content: '<p><strong>Envato</strong><br>Melbourne VIC 3000, Australia</p>'
+			  content: '<p><strong>McGill University</strong></p>'
 			}
 
+
 		});
+		//Add map Marker
+		map.addMarker({
+		lat: +45.4979,
+		lng: -73.5717,
+		infoWindow: {
+			content: '<p><strong>La Centre Sheraton</strong></p>'
+		}
+
+
+	});
 	}
 
 

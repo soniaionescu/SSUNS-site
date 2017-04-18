@@ -268,19 +268,19 @@
 		var map;
 		 map = new GMaps({
 			el: '#map-location',
-			zoom: 12,
+			zoom: 15,
 			scrollwheel:false,
 			//Set Latitude and Longitude Here
-			lat: -37.817085,
-			lng: 144.955631
+			lat: 45.498125,
+			lng: -73.571692
 		  });
 
 		  //Add map Marker
 		  map.addMarker({
-			lat: -37.817085,
-			lng: 144.955631,
+              lat: 45.498125,
+              lng: -73.571692,
 			infoWindow: {
-			  content: '<p><strong>Envato</strong><br>Melbourne VIC 3000, Australia</p>'
+			  content: '<p><strong>SSUNS 2017</strong><br>Le Centre Sheraton Hotel, Montreal</p>'
 			}
 
 		});

@@ -271,14 +271,14 @@
 			zoom: 15,
 			scrollwheel:false,
 			//Set Latitude and Longitude Here
-			lat: 45.498125,
-			lng: -73.571692
+			lat: 45.497899,
+			lng: -73.571498
 		  });
 
 		  //Add map Marker
 		  map.addMarker({
-              lat: 45.498125,
-              lng: -73.571692,
+              lat: 45.497899,
+              lng: -73.571498,
 			infoWindow: {
 			  content: '<p><strong>SSUNS 2017</strong><br>Le Centre Sheraton Hotel, Montreal</p>'
 			}

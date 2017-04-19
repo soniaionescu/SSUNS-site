@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c973eca-0bd7-4d80-b0e5-eed124d4d850" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meeton/About-IRSAM.html" afterPath="$PROJECT_DIR$/meeton/About-IRSAM.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meeton/About-Montreal.html" afterPath="$PROJECT_DIR$/meeton/About-Montreal.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meeton/About-SSUNS.html" afterPath="$PROJECT_DIR$/meeton/About-SSUNS.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meeton/contact.html" afterPath="$PROJECT_DIR$/meeton/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meeton/index.html" afterPath="$PROJECT_DIR$/meeton/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meeton/regInfo.html" afterPath="$PROJECT_DIR$/meeton/regInfo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meeton/resources.html" afterPath="$PROJECT_DIR$/meeton/resources.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meeton/speakers-2-col.html" afterPath="$PROJECT_DIR$/meeton/speakers-2-col.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,7 +20,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/meeton/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
+            <state relative-caret-position="6015">
               <caret line="401" column="0" lean-forward="false" selection-start-line="401" selection-start-column="0" selection-end-line="440" selection-end-column="13" />
               <folding />
             </state>
@@ -37,7 +30,7 @@
       <file leaf-file-name="regInfo.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/meeton/regInfo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
+            <state relative-caret-position="3030">
               <caret line="202" column="61" lean-forward="false" selection-start-line="202" selection-start-column="43" selection-end-line="202" selection-end-column="61" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#li#0;n#ul#0;n#div#1;n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -46,11 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/meeton/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="151" column="20" lean-forward="false" selection-start-line="151" selection-start-column="20" selection-end-line="151" selection-end-column="20" />
+            <state relative-caret-position="390">
+              <caret line="142" column="4" lean-forward="true" selection-start-line="142" selection-start-column="4" selection-end-line="142" selection-end-column="4" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -59,10 +52,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="About-SSUNS.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/meeton/About-SSUNS.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1620">
+              <caret line="129" column="26" lean-forward="true" selection-start-line="129" selection-start-column="26" selection-end-line="129" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/meeton/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
+            <state relative-caret-position="26925">
               <caret line="1795" column="1" lean-forward="false" selection-start-line="1795" selection-start-column="1" selection-end-line="1795" selection-end-column="1" />
               <folding />
             </state>
@@ -79,7 +82,7 @@
       <file leaf-file-name="resources.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/meeton/resources.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
+            <state relative-caret-position="960">
               <caret line="64" column="44" lean-forward="false" selection-start-line="64" selection-start-column="44" selection-end-line="64" selection-end-column="44" />
               <folding />
             </state>
@@ -89,21 +92,9 @@
       <file leaf-file-name="speakers-2-col.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/meeton/speakers-2-col.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
+            <state relative-caret-position="1155">
               <caret line="77" column="59" lean-forward="false" selection-start-line="77" selection-start-column="59" selection-end-line="77" selection-end-column="59" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="About-Montreal.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/meeton/About-Montreal.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1008">
-              <caret line="196" column="13" lean-forward="false" selection-start-line="196" selection-start-column="13" selection-end-line="196" selection-end-column="13" />
-              <folding>
-                <element signature="n#style#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -111,7 +102,7 @@
       <file leaf-file-name="About-IRSAM.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/meeton/About-IRSAM.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1008">
+            <state relative-caret-position="2955">
               <caret line="197" column="13" lean-forward="false" selection-start-line="197" selection-start-column="13" selection-end-line="197" selection-end-column="13" />
               <folding>
                 <element signature="n#style#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -123,7 +114,7 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/meeton/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1275">
+            <state relative-caret-position="1605">
               <caret line="107" column="13" lean-forward="false" selection-start-line="107" selection-start-column="13" selection-end-line="107" selection-end-column="13" />
               <folding />
             </state>
@@ -201,8 +192,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="3360" />
+    <option name="y" value="23" />
     <option name="width" value="1600" />
-    <option name="height" value="1200" />
+    <option name="height" value="1177" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -219,8 +211,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -261,9 +254,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SSUNS-site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SSUNS-site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -272,7 +278,6 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="FullScreen" value="true" />
     <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v7.7.3/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v7.7.3/bin/node" />
@@ -691,15 +696,16 @@
       <workItem from="1491609768090" duration="660000" />
       <workItem from="1491611304336" duration="3707000" />
       <workItem from="1491847920011" duration="1656000" />
+      <workItem from="1492625210209" duration="81000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15218000" />
+    <option name="totallyTimeSpent" value="15299000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3360" y="0" width="1600" height="1200" extended-state="0" />
-    <editor active="true" />
+    <frame x="3360" y="23" width="1600" height="1177" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -715,7 +721,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16752246" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.169448" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -789,7 +795,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="4" column="482" lean-forward="false" selection-start-line="4" selection-start-column="477" selection-end-line="4" selection-end-column="482" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -811,7 +816,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="507">
           <caret line="249" column="15" lean-forward="false" selection-start-line="249" selection-start-column="10" selection-end-line="249" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -819,7 +823,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2500">
           <caret line="0" column="38017" lean-forward="false" selection-start-line="0" selection-start-column="38012" selection-end-line="0" selection-end-column="38017" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -861,7 +864,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="440" column="28" lean-forward="false" selection-start-line="440" selection-start-column="28" selection-end-line="440" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -913,7 +915,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3735">
           <caret line="249" column="15" lean-forward="false" selection-start-line="249" selection-start-column="10" selection-end-line="249" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -921,7 +922,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="38017" lean-forward="false" selection-start-line="0" selection-start-column="38012" selection-end-line="0" selection-end-column="38017" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -939,7 +939,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6600">
           <caret line="440" column="28" lean-forward="false" selection-start-line="440" selection-start-column="28" selection-end-line="440" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -973,7 +972,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1590">
           <caret line="106" column="13" lean-forward="false" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -981,7 +979,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1590">
           <caret line="106" column="13" lean-forward="false" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -989,7 +986,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1575">
           <caret line="105" column="13" lean-forward="false" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -997,21 +993,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meeton/About-SSUNS.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1590">
-          <caret line="126" column="53" lean-forward="true" selection-start-line="126" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/meeton/About-Montreal.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
+        <state relative-caret-position="2940">
           <caret line="196" column="13" lean-forward="false" selection-start-line="196" selection-start-column="13" selection-end-line="196" selection-end-column="13" />
           <folding>
             <element signature="n#style#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1021,7 +1008,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/meeton/About-IRSAM.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
+        <state relative-caret-position="2955">
           <caret line="197" column="13" lean-forward="false" selection-start-line="197" selection-start-column="13" selection-end-line="197" selection-end-column="13" />
           <folding>
             <element signature="n#style#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1031,7 +1018,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/meeton/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
+        <state relative-caret-position="1605">
           <caret line="107" column="13" lean-forward="false" selection-start-line="107" selection-start-column="13" selection-end-line="107" selection-end-column="13" />
           <folding />
         </state>
@@ -1039,7 +1026,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/meeton/speakers-2-col.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
+        <state relative-caret-position="1155">
           <caret line="77" column="59" lean-forward="false" selection-start-line="77" selection-start-column="59" selection-end-line="77" selection-end-column="59" />
           <folding />
         </state>
@@ -1047,7 +1034,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/meeton/resources.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
+        <state relative-caret-position="960">
           <caret line="64" column="44" lean-forward="false" selection-start-line="64" selection-start-column="44" selection-end-line="64" selection-end-column="44" />
           <folding />
         </state>
@@ -1055,7 +1042,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/meeton/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
+        <state relative-caret-position="6015">
           <caret line="401" column="0" lean-forward="false" selection-start-line="401" selection-start-column="0" selection-end-line="440" selection-end-column="13" />
           <folding />
         </state>
@@ -1068,7 +1055,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/meeton/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
+        <state relative-caret-position="26925">
           <caret line="1795" column="1" lean-forward="false" selection-start-line="1795" selection-start-column="1" selection-end-line="1795" selection-end-column="1" />
           <folding />
         </state>
@@ -1076,7 +1063,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/meeton/regInfo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
+        <state relative-caret-position="3030">
           <caret line="202" column="61" lean-forward="false" selection-start-line="202" selection-start-column="43" selection-end-line="202" selection-end-column="61" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#li#0;n#ul#0;n#div#1;n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1086,12 +1073,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/meeton/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="151" column="20" lean-forward="false" selection-start-line="151" selection-start-column="20" selection-end-line="151" selection-end-column="20" />
+        <state relative-caret-position="390">
+          <caret line="142" column="4" lean-forward="true" selection-start-line="142" selection-start-column="4" selection-end-line="142" selection-end-column="4" />
           <folding>
             <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meeton/About-SSUNS.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="129" column="26" lean-forward="true" selection-start-line="129" selection-start-column="26" selection-end-line="129" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>

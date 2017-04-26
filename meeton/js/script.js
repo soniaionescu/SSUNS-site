@@ -149,7 +149,7 @@
 
 	//Countdown Timer
 	if($('#countdown-timer').length){
-		$('#countdown-timer').countdown('2017/11/09', function(event) {
+		$('#countdown-timer').countdown('2017/11/16', function(event) {
 			var $this = $(this).html(event.strftime('' + '<div class="counter-column"><span class="count">%D</span><span class="colon">:</span><br>DAYS</div> ' + '<div class="counter-column"><span class="count">%H</span><span class="colon">:</span><br>HOURS</div>  ' + '<div class="counter-column"><span class="count">%M</span><span class="colon">:</span><br>MINUTES</div>  ' + '<div class="counter-column"><span class="count">%S</span><br>SECOND</div>'));
 		});
 	}
@@ -268,22 +268,33 @@
 		var map;
 		 map = new GMaps({
 			el: '#map-location',
-			zoom: 15,
+			zoom: 12,
 			scrollwheel:false,
 			//Set Latitude and Longitude Here
-			lat: 45.497899,
-			lng: -73.571498
+			lat: +45.5017,
+			lng: -73.5673,
 		  });
 
 		  //Add map Marker
 		  map.addMarker({
-              lat: 45.497899,
-              lng: -73.571498,
+			lat: +45.5048,
+			lng: -73.5772,
 			infoWindow: {
-			  content: '<p><strong>SSUNS 2017</strong><br>Le Centre Sheraton Hotel, Montreal</p>'
+			  content: '<p><strong>McGill University</strong></p>'
 			}
 
+
 		});
+		//Add map Marker
+		map.addMarker({
+		lat: +45.4979,
+		lng: -73.5717,
+		infoWindow: {
+			content: '<p><strong>La Centre Sheraton</strong></p>'
+		}
+
+
+	});
 	}
 
 

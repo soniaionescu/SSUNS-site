@@ -20,11 +20,14 @@
 <div class="page-wrapper">
 
     <!-- Preloader -->
+    <!-- Preloader -->
     <div class="preloader"></div>
 
     <header class="main-header">
     	<div class="auto-container clearfix">
         	<!--Logo-->
+                <div class="logo" ><a href="index.html" ><img style="padding: 5px 5px 5px 5px; max-height:60px" src="images/icons/logo.png" alt="SSUNS 2017" title="SSUNS 2017"></a></div>
+            <!-- need to debug shitty sizing issues for the logo -->
             <!--Main Menu-->
             <nav class="main-menu">
                 <div class="navbar-header">
@@ -38,52 +41,63 @@
 
                 <div class="navbar-collapse collapse clearfix">
                     <ul class="navigation">
-
-                        <li class="logo">
-
-                            <div class="logo" ><a href="index.html" ><img style="position: relative; right:22px" src="images/icons/logo.png" alt="SSUNS 2017" title="SSUNS 2017"></a></div>
+                      <li class = "current dropdown"> <a href="index.html">Home</a>
 
                         </li>
-
-                      <li class="current dropdown"> <a href="index.html">Home</a></li>
-
                         <!-- About -->
                         <li class="dropdown"><a>About</a>
                             <ul class="submenu">
-                                <li><a href="About-SSUNS.html">SSUNS Conference</a></li>
-                                <li><a href="About-IRSAM.html">IRSAM</a></li>
-                                <li><a href="About-Montreal.html">Montreal</a></li>
+                                <li><a href="about-SSUNS.html">SSUNS</a></li>
+                                <li><a href="about-IRSAM.html">IRSAM</a></li>
+                                <li><a href="about-Montreal.html">Montreal</a></li>
                             </ul>
                         </li>
                         <!-- The sec-->
-                        <li><a href="sec.html">The Secretariat</a>
+                        <li><a href="secretariat.html">The Secretariat</a>
                         <!-- committees -->
-                          <li class="dropdown"><a>Committees</a>
+                        <li class="dropdown"><a>Committees</a>
                              <ul class="submenu">
                                   <li><a href="committees-GA-ECOSOCS.html">General Assemblies and ECOSOC</a></li>
                                   <li><a href="committees-Specialized.html">Specialized Agencies</a></li>
-                                  <li><a href="committees-crises.html">Crises</a></li>
+                                  <li><a href="committees-Crises.html">Crises</a></li>
                             </ul>
                         </li>
-                        <!-- Schedule -->
-                        <li class="dropdown"><a>Conference</a>
+                        <!-- Useful pages -->
+                        <li class="dropdown"><a>Conference resources</a>
                             <ul class="submenu">
-                                <li><a href="resources.html">Resources</a></li>
-                                <li><a href="faq.html">FAQ</a></li>
+                              <!--  <li><a href="resources.html">Resources</a></li>-->
+                                <li><a href="FAQ.html">FAQ</a></li>
+                                <!--<li><a href="schedule.html">Schedule</a></li>-->
+                                <li><a href="travel.html">Travel</a></li>
                             </ul>
                         </li>
-                        <!-- Useful Pages-->
+                          <!--  <ul class="submenu">
+                                <li><a href="speakers.html">Speakers Style One</a></li>
+                                <li><a href="speakers-2-col.html">Speakers Style Two</a></li>
+                                <li><a href="speakers-2-col-styled.html">Speakers Style Three</a></li>
+                                <li><a href="speakers-3-col.html">Speakers Style Four</a></li>
+                                <li><a href="speakers-3-col-styled.html">Speakers Style Five</a></li>
+                                <li><a href="single-speaker.html">Single Speaker</a></li>
+                            </ul> -->
+                        <!-- REgistration -->
+
                         <li class="dropdown"><a>Registration</a>
                             <ul class="submenu">
-                                <li><a href="regInfo.html">Registration Information</a></li>
-                                <li><a href="reg.html">Register Now</a></li>
+                                <li><a href="ticket.html">Register Now</a></li>
+                                <li><a href="about-Registration.html">Registration information</a></li>
                             </ul>
                         </li>
                         <!-- Sponsors We'll introduce this later-->
                         <!--<li ><a href="sponsors.html">Sponsors</a></li>-->
 
                         <!-- Contact -->
+
                         <li><a href="contact.html">Contact</a></li>
+                        <!-- The sec-->
+                        <li><a href="sponsors.html">Sponsors</a>
+
+
+
                     </ul>
                 </div>
             </nav>
@@ -128,7 +142,7 @@
                          data-endelementdelay="0.3"
                          data-endspeed="1200"
                          data-endeasing="Power4.easeIn"
-                         style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="big-title"><h2>November 10th - 13th</h2></div></div>
+                         style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="big-title"><h2>November 16th</h2></div></div>
 
                     <div class="tp-caption lfb tp-resizeme"
                      data-x="center" data-hoffset="0"
@@ -143,7 +157,7 @@
                     data-endspeed="1200"
                     data-endeasing="Power4.easeIn"
                     style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="slide-text"><p>
-                        <a href="About-SSUNS.html" class="default-btn orange hvr-bounce-to-right">About the Conference</a> <a href="regInfo.html" class="default-btn orange hvr-bounce-to-right">Registration Information</a>
+                        <a href="About-SSUNS.html" class="default-btn orange hvr-bounce-to-right">About the Conference</a> <a href="about-Registration.html" class="default-btn orange hvr-bounce-to-right">Registration Information</a>
                     </p>
 
                     </div></div>
@@ -219,7 +233,7 @@
                     </li>
 
                     <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/team.jpg"  data-saveperformance="off"  data-title="Secretariat">
-                    <img src="images/main-slider/team.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+                    <img src="images/team/group.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 
                     <div class="tp-caption lfb tp-resizeme"
                      data-x="left" data-hoffset="15"
@@ -282,15 +296,12 @@
                         <h2>DEXTER DOCHERTY</h2>
                         <p class="position">Secretary General</p>
                         <div class="social-links wow fadeInRight" data-wow-delay="1000ms" data-wow-duration="1500ms">
-                            <a href="#"><span class="fa fa-facebook-f"></span></a>
-                            <a href="#"><span class="fa fa-twitter"></span></a>
-                            <a href="#"><span class="fa fa-google"></span></a>
-                            <a href="#"><span class="fa fa-pinterest-p"></span></a>
-                            <a href="#"><span class="fa fa-instagram"></span></a>
+                            <a href="https://www.facebook.com/dexter.docherty"><span class="fa fa-facebook-f"></span></a>
+                            <a href="https://www.linkedin.com/in/dexter-docherty-2b4740b9"><span class="fa fa-linkedin"></span></a>
                         </div>
                         <div class="wow fadeInRight" data-wow-delay="1500ms" data-wow-duration="1500ms">
                         <ul>
-                            <li><i class="fa fa-phone"></i> +123456987</li>
+                            <li><i class="fa fa-phone"></i>(514)466-7799</li>
                             <li><i class="fa fa-envelope"></i> sg@ssuns.org</li>
                         </ul>
                         </div>
@@ -298,10 +309,19 @@
                 </div>
                 <div class="col-lg-9">
                     <h2>Letter from the Secretary General</h2>
-                    <p>Nulla vitae elit libero, a pharetra augue. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas faucibus mollis interdum.</p>
-                    <p>Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</p>
-                    <p>Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                    <p>Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <p>Hi there,</p>
+                    <p>My name is Dexter Docherty and I am extremely proud to be serving as the Secretary-General of the 25th annual Secondary Schools United Nations Symposium. SSUNS has been my biggest passion for the past four years now and I am beyond excited everything we have in store this year.</p>
+                    <p>The Secretariat at SSUNS and all our staff at McGill are confident that we host the highest quality conference there is. We have several hundred passionate McGillians who are committed to building the best educational experience possible for our delegates (Our delegate to staff ratio is better than 4:1, despite having nearly 1,500 delegates). The team I am fortunate enough to work with ensures that SSUNS can have the most innovative and interactive committees. I have had the pleasure of helping craft our committees list for the past three years. We make a deliberate effort to have committees that span every era and every region of the world. We put an emphasis on having as many small-room committees as possible, because they provide more speaking opportunities and a more intimate experience for delegates (We have even increased our crisis directors’ budgets for props!). We have expanded the size of our committees list for the second consecutive year, because we want to increase the number of delegates we provide a valuable learning experience to—and we do not believe that that expansion should require 300+ person double delegate general assemblies. We are constantly looking for ways to engage more students with subjects that suit their interests and simulations that balance fun and academic development.
+                    </p>
+                    <p>SSUNS is about more than Model United Nations. Our biggest area of innovation this year is in out-of-committee delegate experience. There is no reason the educational opportunities at SSUNS should end when committee session does. We understand that MUN and public speaking are not for everyone—so in 2017 we are committed to showing every SSUNS delegate that there are many more ways to make a difference and have your voice heard. We intend to more than triple the number of workshops compared to last year. There will be seminars offered to interested delegates on everything from student journalism to photography to sustainability to charity work. We will be hosting skills-building session for students looking to learn about the college application process, essay writing, the transition to university life, building a CV, preparing for LSATs, and networking successfully. We intend to increase the number of guest lecturers at SSUNS, both through our connections at the United Nations and professors from around Montreal. We are making SSUNS a more complete learning experience in every way we can think of.
+                    </p>
+                    <p> Last, but certainly not least, SSUNS 2017 is partnering with the McGill Office of Sustainability in order to host the most eco-friendly conference possible. We are not only finding innovative ways to reduce our own footprint, but we will be actively working to engage and educate our delegates in this process every step of the way.
+                    </p>
+                    <p> We have something special in store this year. I hope you will join us and help make SSUNS 2017 the best conference ever!
+                    </p>
+                    <p> Sincerely, </p>
+                    <p> Dexter Docherty, </p>
+                    <p> Secretary-General, SSUNS 2017 </p>
 
                 </div>
             </div>
